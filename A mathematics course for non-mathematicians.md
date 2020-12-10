@@ -2,7 +2,14 @@
 - **Some resources:**
     - The book [[Conceptual Mathematics]] by Shanuel and Lawvere ? 
     - Perhaps material form Eugenia Cheng ? 
-- 
+    - as.dkf
+    - a;sdlkf
+		- alskdf
+		- asd
+	- alksdfj
+		- lasdk
+			- alskdjf
+ 
 - **Possible target audiences:**
     - Architecture students via Ludgar Hovestadt
     - DGESS?
