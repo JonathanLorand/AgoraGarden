@@ -1,3 +1,5 @@
+## Textkonzept - Jonathan Lorand - MTR Dec 2020
+
 ### Structure
 
 My text will be a two-layered hypertext.
@@ -37,7 +39,7 @@ The following are tentative/possible chapter titles/contents:
 * Co-constitution
 	* About things that are constituted collaboratively and interactively.  
 * Reify
-	* Dynamics and methos of making a thing a thing.
+	* Dynamics and methods of making a thing a thing.
 * Sacred Chores
 	* About a certain monk-ish perspective.
 * Quietude
@@ -57,10 +59,10 @@ The following are tentative/possible chapter titles/contents:
 * Abstraction
 	* About qualities, methods, and uses of abstraction. 
 * Notation
-	* About the process of creating new denotational systems
+	* About the process of creating denotational systems.
 * Flow
 * Generalized Thinking 
-	* About notions of thinking other than in the "usual" sense
+	* About notions of thinking other than in the "usual" sense.
 * Complexity
 * Cognitive Artifacts
 * Design: Intentions
