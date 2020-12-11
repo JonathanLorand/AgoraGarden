@@ -2,9 +2,9 @@
 
 My text will be a two-layered hypertext.
 
-By 'hypertext', I mean that the text will be divided into modular pieces (I'll call them chapters) which need not be read in a fixed linear order. Furthermore, each of the chapters will contain hyperlinks (analogous to the ones we know from the internet) to other chapters.
+By 'hypertext', I mean that the text will be divided into modular pieces (let's call them chapters) which need not be read in a fixed linear order. Furthermore, each of the chapters will contain hyperlinks (analogous to the ones we know from the internet) to other chapters.
 
-By 'two-layered', I mean that each chapter will have two types of text: besides the fuller 'body' of text of the chapter, there will also be a short 'header' text written in a compact manner which aims to summarize the essence of that chapter. In this manner, a reader who wishes to capture the gist of the full text in a short amount of time may read only the header texts of all the chapters. This idea is inspired by the structure of [Ref: literary machines] and [Ref: timeless way of building].  
+By 'two-layered', I mean that each chapter will have two types of text: besides the fuller 'body' of text of the chapter, there will also be a short 'header' text written in a compact manner which aims to summarize the essence of that chapter. In this manner, a reader who wishes to capture the gist of the full text in a short amount of time may read only the header texts of all the chapters. This idea is inspired by the structure of [Ref: 1.] and [Ref: 2.].  
 
 ### Medium
 
@@ -15,13 +15,18 @@ In the digital version, the hyperlinks will be working links; in the physical ve
 
 The following are tentative/possible chapter titles/contents:
 
+* README
+	* Some words about the overall text to prime the reader. 
 * Applied Utopia
-* Constructive Imagination
+	* About a certain notion, attitude, and approach to "utopia".
+* Constructive Optimism
+	* An attitude of making the optimistic perhaps useful and real. 
 * Personal Realism
 	* About authenticity, honesty, acceptance, non-judgemental observation. 
 * Human State Space
+	* About diversity of states. 
 * Singular and Plural (Re)Searchers
-	* Related to Mertsch text
+	* Related to the Mersch text, among other things.
 * Co-constitution
 	* About things that are constituted collaboratively and interactively.  
 * Reify
@@ -29,13 +34,15 @@ The following are tentative/possible chapter titles/contents:
 * Sacred Chores
 	* About a certain monk-ish perspective.
 * Quietude
+	* Related here is [Ref: 7.]
 * Coziness
 * Play
 * Symbolic Construction
 * Embeddings, Enmeshings
 * Paradigm Patchworking
+	* Related here is [Ref: 9.]
 * Being Bodies
-	* About including the corporal dimension in activities.  
+	* About the corporal dimension in activities.  
 * Thinking Through
 * Thinking Anonymously
 	* The dynamics of separating thought and social identity.
@@ -45,14 +52,25 @@ The following are tentative/possible chapter titles/contents:
 	* About the process of creating new denotational systems
 * Flow
 * Generalized Thinking 
-	* This is about notions of thinking other than in the usual sense
+	* About notions of thinking other than in the "usual" sense
 * Complexity
+* Cognitive Artifacts
+* Design: Intentions
+* Design: Cycles
+	
 
 
 ### References
 
-* Book: [[Literary Machines]] by [[Ted Nelson]] 
-* Book: [[The Timeless Way of Building]] by [[Christopher Alexander]]
-* Book: [[The Glass Bead Game]] by [[Hermann Hesse]]
-* Article: [[As We May Think]] by [[Vannevar Bush]]
-* Book: [[Staying With The Trouble]] by [[Donna Haraway]]
+1. Book: [[Literary Machines]] by [[Ted Nelson]] 
+2. Book: [[The Timeless Way of Building]] by [[Christopher Alexander]]
+3. Book: [[The Glass Bead Game]] by [[Hermann Hesse]]
+4. Article: [[As We May Think]] by [[Vannevar Bush]]
+5. Book: [[Staying With The Trouble]] by [[Donna Haraway]]
+6. Article: [[Ästhetisches Denken: Kunst als Theoria]] by [[Dieter Mersch]]
+7. Book: [[The Treasure of the Humble]] by [[Maurice Maeterlinck]]
+8. Talk: [[Category Theory and Life]] by [[Eugenia Cheng]]
+9. Article: [[Collaborating In and Beyond Science]] by [[Sabine Maasen]]
+10. Book: [[On the Shortness of Life]] by [[Seneca]]
+11. Book: [[Das Vollkommene Leben]] by [[Michael Hampe]]
+12. Book: [[Designing Your LIfe]] by [[Bill Burnett]] and [[Dave Evans]]
