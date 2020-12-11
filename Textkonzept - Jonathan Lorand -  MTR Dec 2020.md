@@ -16,7 +16,7 @@ In the digital version, the hyperlinks will be working links; in the physical ve
 Topics covered in this text are ones related to my MTR project, "Utopoi". 
 I see this text assignment as an opportunity to
 
-* "think through wrintig";
+* "think through writing";
 * produce materials that I can perhaps use later, for my project and for the master's thesis text;
 * experiment with the text format and production process.
 
