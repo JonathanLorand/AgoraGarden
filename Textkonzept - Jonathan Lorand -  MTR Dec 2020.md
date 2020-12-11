@@ -13,6 +13,12 @@ In the digital version, the hyperlinks will be working links; in the physical ve
 
 ### Content
 
+Topics covered in this text are ones related to my MTR project, "Utopoi". 
+I see this text assignment as an opportunity to
+* "think through wrintig";
+* produce materials that I can perhaps use later, for my project and for the master's thesis text;
+* experiment with the text format and production process.
+
 The following are tentative/possible chapter titles/contents:
 
 * README
@@ -26,7 +32,7 @@ The following are tentative/possible chapter titles/contents:
 * Human State Space
 	* About diversity of states. 
 * Singular and Plural (Re)Searchers
-	* Related to the Mersch text, among other things.
+	* Related to [Ref. 6.], among other things.
 * Co-constitution
 	* About things that are constituted collaboratively and interactively.  
 * Reify
@@ -38,6 +44,7 @@ The following are tentative/possible chapter titles/contents:
 * Coziness
 * Play
 * Symbolic Construction
+	* Related here is [Ref: 14.]
 * Embeddings, Enmeshings
 * Paradigm Patchworking
 	* Related here is [Ref: 9.]
@@ -56,6 +63,7 @@ The following are tentative/possible chapter titles/contents:
 * Complexity
 * Cognitive Artifacts
 * Design: Intentions
+	* Related here is [Ref: 13.]
 * Design: Cycles
 	
 
@@ -74,3 +82,6 @@ The following are tentative/possible chapter titles/contents:
 10. Book: [[On the Shortness of Life]] by [[Seneca]]
 11. Book: [[Das Vollkommene Leben]] by [[Michael Hampe]]
 12. Book: [[Designing Your LIfe]] by [[Bill Burnett]] and [[Dave Evans]]
+13. Talk: [[Bioneers 2000 Talk]] by [[William McDonough]] | [video](https://www.youtube.com/watch?v=J8EMFaYvH_A)
+14. Article: [[Wissenschaft als symbolische Konstruktion des Menschen]] by [[Hermann Weyl]]
+	
