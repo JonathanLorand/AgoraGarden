@@ -24,7 +24,7 @@ I see this text assignment as an opportunity to
 * produce materials that I can perhaps use later, for my project and for the master's thesis text;
 * experiment with the text format and production process.
 
-##### Table of Contents
+#### Table of Contents
 
 The following are tentative/possible chapter titles/contents:
 
@@ -73,7 +73,7 @@ The following are tentative/possible chapter titles/contents:
 	* Related here is [Ref: 13.]
 * Design: Cycles
 	
-##### Related but not (yet?) integrated
+#### Related but not (yet?) integrated
 	
 A loose collection of things that are related. 
 
