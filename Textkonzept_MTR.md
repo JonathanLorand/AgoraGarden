@@ -1,6 +1,6 @@
 
 - - - - - - - -
-## Textkonzept - Jonathan Lorand - MTR Dec 2020
+## Textkonzept - MTR text assingment
 
 ### Structure
 
