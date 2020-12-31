@@ -8,7 +8,7 @@
   - [[architecture]]
   - [[sufirave]]
   - [[music]]
-  - [[agora]]
+  - [[Agora]]
   - [[stoa]]
   - [[roam]]
   - [[sarna con gusto no pica]]

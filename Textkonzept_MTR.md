@@ -1,6 +1,6 @@
 
 - - - - - - - -
-## Textkonzept - MTR text assingment
+## Textkonzept - MTR text assignment
 
 ### Structure
 
@@ -23,6 +23,8 @@ I see this text assignment as an opportunity to
 * "think through writing";
 * produce materials that I can perhaps use later, for my project and for the master's thesis text;
 * experiment with the text format and production process.
+
+
 
 #### Table of Contents
 
@@ -72,9 +74,11 @@ The following are tentative/possible chapter titles/contents:
 * Design: Intentions
 	* Related here is [Ref: 13.]
 * Design: Cycles
-	
-#### Related but not (yet?) integrated
-	
+* Space: ...
+
+
+#### Related but not (yet?) integrated 
+
 A loose collection of things that are related. 
 
 [[principle of charity]]
