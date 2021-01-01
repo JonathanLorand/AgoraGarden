@@ -1,5 +1,5 @@
 
-## Mini curriculum on applied category theory and engineering design
+# Mini curriculum on applied category theory and engineering design
 	- First posted [[2021-01-01]]
 	- Suggested program:
 		- Step 1: Read the the paper [[A mathematical theory of co-design]],  freely available [here](https://arxiv.org/abs/1512.08055)
