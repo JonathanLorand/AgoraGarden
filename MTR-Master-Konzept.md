@@ -5,12 +5,15 @@
 
 # a)  Starting position and goal (max. 1⁄4 page). 
 	What is my background? What interests me? Which topic do I work on?
+	
+		My disciplinary training is in mathemathics. 
 
 # b)  Exact formulation of the topic (max. 1page). 
 	What is the field of content in which I move? What interests me about the topic? Is there already knowledge that I fall back on? Are there reference projects / objects to which I refer?
 
 # c) Research question and choice of method (max. 1 page)
 	What question(s) do I put in my Master Project and how do I try to answer it? Which methods do I use and why did I choose them? 
+	
 # d) Formulation of the transdisciplinary constellation (max. 1 page).
 	Why is this project suitable for a master‘s degree in transdisciplinarity? What of the topic and the question is transdisciplinary and why? How does the transdisciplinary constellation in the project layout show itself?
 
