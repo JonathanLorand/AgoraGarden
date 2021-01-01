@@ -23,9 +23,10 @@ meta: #[[Christopher Alexander]] #design #architecture #modular
 		- Be careful not to be too many people? Or is there a way to deal with a situation where we could be many? Split into groups?
 	- Do a doodle to find a bi-weekly meeting time that fits for all?
 		- Evenings or weekends probably best, to accomodate working people
-		- 
+		
 
 - To-Dos
+	- Write Irene to ask about getting a group Miro board? 
 
 
 
