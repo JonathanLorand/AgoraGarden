@@ -1,1 +1,1 @@
-A book
+A [[book]]

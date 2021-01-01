@@ -88,7 +88,7 @@ A loose collection of things that are related.
 
 ### References
 
-1. [[Literary Machines]] by [[Ted Nelson]] #Book 
+1. [[AgoraGarden/Literary Machines]] by [[Ted Nelson]] #Book 
 2. [[The Timeless Way of Building]] by [[Christopher Alexander]] #Book
 3. [[The Glass Bead Game]] by [[Hermann Hesse]] #Book 
 4. [[As We May Think]] by [[Vannevar Bush]] #Article 
