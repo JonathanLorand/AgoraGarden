@@ -23,10 +23,10 @@ In the context of my master's project I am interested in processes which are ded
 
 
 # b)  Exact formulation of the topic (max. 1page). 
-What is the field of content in which I move? What interests me about the topic? Is there already knowledge that I fall back on? Are there reference projects / objects to which I refer?
+*What is the field of content in which I move? What interests me about the topic? Is there already knowledge that I fall back on? Are there reference projects / objects to which I refer?*
 
 
-What is the field of content in which I move? 
+*What is the field of content in which I move? *
 
 This question is a part of my project's process. I am looking for a conceptual and linguistic vocabulary for my "field of content". 
 
@@ -34,7 +34,6 @@ One term is "applied utopia". This aims to combine the connotations of speculati
 
 Another term is that of "protopia". In place of "utopia" as a "perfect" place beyond the horizon, a protopia is a world which is only slightly better than the current one, in some way or another. It is not about masterplans and end-goals, but about incremental changes to the status quo. It is about possible directions to move in. For me, it describes a continual process rather than a static vision. It is about "prototyping for a better world". 
 
-%The above two terms, respectively, aim to link the creative dreaming of %utopiansim with practical daily life, and shift from static visions to %incremental processes. 
 
 I wish to also emphasize: 
 
@@ -127,7 +126,7 @@ The text will serve as a contextual and theoretical framing of the practical par
 
 
  # f) People involved. 
- Who is my main mentor? Which other persons / disciplines / competencies do I need to be able to pursue my project?
+ *Who is my main mentor? Which other persons / disciplines / competencies do I need to be able to pursue my project?*
 	
 *Mentoring*
 - MTR Mentor: Basil Rogger
@@ -139,22 +138,28 @@ The text will serve as a contextual and theoretical framing of the practical par
 	- Livio Lunin
 	- Eduardo Ivanec
 	- Nadja Schnetzler ?  #collaboration #faciliation
+	- Julian Rohrhuber ?
+	- Rene Bauer ? 
 	
 *Competencies: support desired*
 	
-- Faciliators in group processes and communication
+I would benefit from support/mentoring/advice on the following topics: 
+
+- Facilitation of group processes and communication
 	- Collaboration/team-work
-	- Dialogue / group-communication
+	- Dialogue/group-communication
 	- Artistic/non-discursive approaches to dialogue
 
-- Managing a space (installation / off-space)
+- Managing a space (installations/off-spaces)
 	- Applying for funding? 
 	- Organizing/(non-)advertising?
 
-- Theory
-	- protopia idea and relation to art theory and social theory
+- Theory of protopical
+	- the protopia concept, and its relation to art theory and social theory
 
-- Building a wiki-style website
+- Technological pattern language implementation
+	- Building a wiki-style website
+	- Integrating digital wiki with printing capabilities
 
 
  # g) Schedule (max. 1⁄2 page) 
@@ -175,24 +180,24 @@ The text will serve as a contextual and theoretical framing of the practical par
 *Beyond 2nd Semester*
 - Faciliate workshop experiments
 - More writing and reading
-- Start experimenting/building pattern language webpage/tool
+- Start experimenting/building pattern language webpage and tool
+- Start experimenting with ways to integrate wiki with analogue printing
 
 
  # h) First Semester Review
-– a list of activities related to the Master Project (events in and outside ZHdK, MTR courses, own exhibitions and event activities, etc.);
+*– a list of activities related to the Master Project (events in and outside ZHdK, MTR courses, own exhibitions and event activities, etc.);
 – a list of research materials (e.g. bibliography); 
-– a list of meetings with core lecturers, mentors (names, dates).
+– a list of meetings with core lecturers, mentors (names, dates).*
 
 - List of activities related to the Master Project
 	- Lab of impossibilities 2020 (weeklong workshop)
 	- Workshop on Non-violent communication (NVC) with Yoram Mosenson (3 full days)
 	- Workshop on NVC and internalized capitalism (1 evening)
 	- Field trip to Basel to visit the Art-Science off-space Symbiont
-	- Conversations with Katherine MacBride (Artist and Social worker)
-	- Conversations with Yael Degany (Artist and Mathematician)
-	- Conversations with Livio Lunin (Protopian real-life researcher)
-	- Conversations with Eduardo Ivanec (Protopian and Coder)
-		- Agora (federated note-taking; systemetized protopia planning)
+	- Conversations with Katherine MacBride (artist and social worker)
+	- Conversations with Yael Degany (artist and mathematician)
+	- Conversations with Livio Lunin (protopian real-life researcher)
+	- Conversations with Eduardo Ivanec (protopian and coder)
 	- Applied to collaborate at a neighborhood community space
 	- Reading group on Christopher Alexander 
 
@@ -200,7 +205,9 @@ The text will serve as a contextual and theoretical framing of the practical par
 	- 2020-10-15 Kaspar König
 	- 2020-10-22 Basil Rogger
 	- 2020-10-26 Basil Rogger
-	- 2020-...  Kaspar König 
+	- 2020-11-08 Kaspar König
+	- 2020-11-26 Basil Rogger
+	- 2020-11-28 Kaspar König
 
 - List of research materials
 	- Non-violent communication - Marshall Rosenberg
