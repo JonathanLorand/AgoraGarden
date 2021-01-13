@@ -94,22 +94,15 @@ Cards and interactive aspect
 
 	
 # d) Formulation of the transdisciplinary constellation (max. 1 page).
-Why is this project suitable for a master‘s degree in transdisciplinarity? What of the topic and the question is transdisciplinary and why? How does the transdisciplinary constellation in the project layout show itself?
+*Why is this project suitable for a master‘s degree in transdisciplinarity? What of the topic and the question is transdisciplinary and why? How does the transdisciplinary constellation in the project layout show itself?*
 
-The "core questions" that are the starting point of this project are ones which are very transdisciplinary -- or, one might say, non-disciplinary -- in that their scope is, humbly speaking, "living life". In this regard, the project has a transdisciplinary character from the get go. 
+The "core questions" that are the starting point of my topic are arguably transdisciplinary and/or non-disciplinary. And my intended approach to the topic is transdisciplinary, in that it occupies a space connecting various discipinary practices. Specifically, my project incorporates elements that I would associate with the disciplinary contexts of mathematics, design, art, and social work. 
 
-However, my intended approach to these questions (and "protopian processes" for exploring them) is certainly flavored by disciplinary leanings and preconditions. 
-I see my disciplinary background in mathematics as closely related to the pattern language component of my project. For example, in the topics of pattern(ning), abstraction, systemic thinking, coordinatizing, and glyphing. 
-On the other hand, I see the workshop aspect of my project as having both social and artistic dimensions. 
+I see my disciplinary background in mathematics as closely related to the pattern language component of my project. For example, in the topics of pattern(ning), abstraction, systemic thinking, coordinatizing, and glyphing. This component of the project is also about design, in that it draws on the pattern language design methodologies and philosophy, and will be a concrete artifact to be designed with users in mind.
 
-Mathematical aspect through the patterns and the pattern-making process
-
-Curatorial aspect
-Choreographical/Performative artistic aspect
+On the other hand, I see the workshop aspect of my project as relating to both social and artistic practices. The social dimension is evident in my project's intention to instigate socially-oriented group processes for engaging with protopia.  I see an artistic dimension present in both the use of aesthetically-informed non-discursive approaches, as well as in the central role of imagination and creative speculation, which I view as a fundamentally artistic activity. 
 
 
-Imagination as a core skill/process for applied utopia
-	- related to art
 
 # e) Form and media choice (max. 1⁄2 page) 
 Which media do I plan to work with? What idea about formal aspects do I already have? What is the relationship between the practical and the discursive part of my Master Project?
@@ -144,7 +137,7 @@ The text will serve as a contextual and theoretical framing of the practical par
 	- Yael Degany 
 	- Katherine MacBride
 	- Livio Lunin
-	- 
+	- Eduardo Ivanec
 	- Nadja Schnetzler ?  #collaboration #faciliation
 	
 *Competencies: support desired*
