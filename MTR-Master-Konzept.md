@@ -49,29 +49,10 @@ The processes that happen in the context of my project will hopefully be enrichi
 
 
 
-- Design patterns for group communication
-	- Catalogue of patterns
-	- Framework/support/workflow for inventing/finding new patters and formalizing them
-- Themes/questions: 
-	- interplay/relation of digital and non-digital formats
-	- information flows
-	- kinds of information (logical, emotions)
-	- time aspects
-		- when is information shared?
-		- synchronicity modes
-		- how long is information valid? e.g. state expiration 
-	- identity aspects
-		- when is information tied to a person or not
-		- power structures
-		- attributing authorship
-	- formats for quick digital capture of states 
-		- programmable polls
-	- energetics
-		- 
 
 
 # c) Research question and choice of method (max. 1 page)
-What question(s) do I put in my Master Project and how do I try to answer it? Which methods do I use and why did I choose them? 
+*What question(s) do I put in my Master Project and how do I try to answer it? Which methods do I use and why did I choose them?* 
 
 I am interested in experimenting with formats which explore the core questions listed in section a). Specifically, I wish to experiment with: 
 - Workshop formats, where a group of people is in dialogue and interaction with each other and with the above-stated core questions. 
@@ -83,13 +64,10 @@ Here I imagine doing sessions with small groups of people, over the course of a 
 
 Pattern Language
 
-
-Wiki aspect
-
-Cards and interactive aspect
-
-
-
+In this part of my project, I would like to start building a "pattern language for protopian processes". Pattern languages are a design methodology and tool based on creating, for a given topic/domain, a sort of "periodic table" or "toolbox", the components of which are "patterns". Each pattern contains, at a certain level of abstraction, the formulation of a re-occuring design problem, along with proposals for solutions to it. More generally, they can be thought of as encodings of "archetypical" or "atomic" situations. The patterns in the language are also interlinked among themselves to indicate relationships, possible combinations, etc. I will initiate a pattern language for protopian processes based on my experiences in the "workshop part" of my project and in collaboration with others. The idea is that it is a dynamic entity which can grow and change over time. Specifically, I will:
+1. Implement a way of writing/reading the pattern language online in a wiki-webpage
+2. Explore ways to transfer the pattern language from digital space to the analogue, physical world. In particular, I will make cards out of the patterns, so they can be used as physical artifacts e.g. in my workshops. 
+3. Study the process of making such a language, and develop tools for people to make their own languages. I will also explore the possibilities for various pattern languages to co-exist, merge, diverge, and interact.  
 
 	
 # d) Formulation of the transdisciplinary constellation (max. 1 page).
@@ -154,7 +132,7 @@ I would benefit from support/mentoring/advice on the following topics:
 	- Applying for funding? 
 	- Organizing/(non-)advertising?
 
-- Theory of protopical
+- Theory of protopia
 	- the protopia concept, and its relation to art theory and social theory
 
 - Technological pattern language implementation
