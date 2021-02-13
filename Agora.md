@@ -1,5 +1,5 @@
 
-An agora -- in its broadest sense -- is a conceptual space where people attempt to bring an increased level of intentionality, explicitness, and mutual agreement to the principles and protocols for interacting in that space. A further aspect of the idea of an Agora is that it is a space which enables collaboration. In particular, it is a space that allows for collaboration guided by specific shared interests, without requiring the co-consitutients of the agora to be aligned more fully or generally in terms of their intentions, values, etc. 
+An agora, in its broadest sense, is a conceptual space where people attempt to bring an increased level of intentionality, explicitness, and mutual agreement to the principles and protocols for interacting in that space. A further aspect of the idea of an Agora is that it is a space which enables collaboration. In particular, it is a space that allows for collaboration guided by specific shared interests, without requiring the co-consitutients of the agora to be aligned more fully or generally in terms of their intentions, values, etc. 
 
 Some topics that the idea of an Agora is related to: [[transparency]] [[decentralized structures]] [[egalitarian principles]] [[judgement]] [[algorithms of interaction]] [[communication]] [[collaboration]] [[knowledge sharing]]
 
