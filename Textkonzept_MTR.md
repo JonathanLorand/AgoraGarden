@@ -17,7 +17,7 @@ In the digital version, the hyperlinks will be working links; in the physical ve
 
 ### Content
 
-Topics covered in this text are ones related to my [[MTR]] project, "Utopoi". 
+Topics covered in this text are ones related to my [[AgoraGarden/MTR]] project, "Utopoi". 
 I see this text assignment as an opportunity to
 
 * "think through writing";
