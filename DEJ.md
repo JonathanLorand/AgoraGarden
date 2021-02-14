@@ -7,9 +7,9 @@
 # Meetings
 
 - [[2021-02-14]]
-	- How we relate to information
+	- How we relate to [[information]]
 	- Thought connection to [[Christopher Alexander]]: systems that allow open-ended organic evolution 
-	- ample -- seperation/distinction between modeleing and coding
+	- ample -- seperation/distinction between [[modeling]] and [[coding]]
 		- how to get people to communicate what they need
 	- m prime
 	- protopian themes will always lead to the word "good"
@@ -52,28 +52,28 @@
 			- E: association with "carneval"
 				- Art as a bargain 
 				- being "decoupled" from society ? 
-			- E: wants rovolution, not carneval
+			- E: wants [[revolution]], not carneval
 		- D: if he had to use a label (which he doesn't like), it would be that he works with "concepts" ("conceptual artist")
 		- using art as a lens, a way of seeing
 
 
 		- D: many people are asking similar questions to the ones we are asking/discussing
-			- how to have these conversations with groups of people? 
+			- how to have these [[conversations]] with groups of people? 
 		- E: how to also enable new connection making ? 
 			- and how can groups have conversations among themselves (between groups)
-				- liquid democracy, delegates ?
+				- [[liquid democracy]], delegates ?
 		- E: info com 
-			- text adventures / interactive fiction
-			- collaborative writing
-			- conversation trees
+			- [[text adventures]] / [[interactive fiction]]
+			- [[collaborative writing]]
+			- [[conversation trees]]
 		- E: interested in the spectrum between writing with natural languages and programming
 		- D: broad current interest: information and the digital context
 			- what are structurings of information that make it useful to me and others? 
-		- E: "Context" is a key concept
-			- key problem in CS and information theory: the question of "state"
+		- E: "[[Context]]" is a key concept
+			- key problem in CS and [[information theory]]: the question of "state"
 			- a way to think of context: 
-				- an intersection of world models (e.g. between communicating parties), together with
-				- transformations (i.e. ones we do in our minds), such as
+				- an intersection of [[world model]]s (e.g. between communicating parties), together with
+				- [[transformations]] (i.e. ones we do in our minds), such as
 					- when translating terms in one's mind when someone else is speaking
 					- tracing paths of thinking (??)
 					- knowing who one is speaking/listening to and interpreting in this context
