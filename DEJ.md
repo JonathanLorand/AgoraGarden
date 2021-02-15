@@ -16,7 +16,7 @@
 		- thinking of it as a "free variable"
 		- ethics as fundmental thing to consider
 			- always need to incorporate when we think/speak about how a system "should be"
-			- leostand ??
+			- lyotard
 		- Daniel's (short-) story:
 			- an overall theme to place here at the start: the back and forth interplay between technology and society
 			- a short choronology
