@@ -75,6 +75,8 @@ The following are tentative/possible chapter titles/contents:
 	* Related here is [Ref: 13.]
 * Design: Cycles
 * Space: ...
+* Art
+	* Communication perspective
 
 
 #### Related but not (yet?) integrated 

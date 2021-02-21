@@ -11,10 +11,6 @@ Jonathan Lorand
   
 
   
-
-  
-
-  
 **Starting position and goal**
 
 My disciplinary training is in mathematics. In the past few years I have become interested in a branch of mathematics called category theory. This is a type of mathematics which is very abstract, and through this abstraction it is also very general. I am attracted to it because I see it as:
