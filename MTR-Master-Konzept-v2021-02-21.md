@@ -15,7 +15,6 @@ My disciplinary training is in mathematics. In the past few years I have become 
 
 **Aims**
 
-
 In the context of my master's project I am interested in processes which are dedicated to the exploration of the following inter-related groups of questions, which I will refer to as the “core questions”. In the following, "I" is not me, Jonathan, but a generic first-person. 
 
 -   What are things that I want/wish/dream for? What am I (dis)satisfied with in life, on a personal, interpersonal, and societal level? 
@@ -23,8 +22,6 @@ In the context of my master's project I am interested in processes which are ded
 -   What factors condition and inform my relationship to these questions? 
 -   What are processes by which I can shape my interaction with these questions? In particular, what kinds of processes are there beyond a self-reflective, discursive approach -- e.g. through actionable experiments and interpersonal interactions?
 -   In which ways can constructive and collaborative first steps grow out of the above processes? 
-
-  d
 
   
 **Exact formulation of the topic**
