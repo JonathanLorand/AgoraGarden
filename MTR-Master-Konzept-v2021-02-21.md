@@ -15,6 +15,7 @@ My disciplinary training is in mathematics. In the past few years I have become 
 
 **Aims**
 
+
 In the context of my master's project I am interested in processes which are dedicated to the exploration of the following inter-related groups of questions, which I will refer to as the “core questions”. In the following, "I" is not me, Jonathan, but a generic first-person. 
 
 -   What are things that I want/wish/dream for? What am I (dis)satisfied with in life, on a personal, interpersonal, and societal level? 
