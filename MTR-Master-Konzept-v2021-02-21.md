@@ -24,7 +24,7 @@ In the context of my master's project I am interested in processes which are ded
 -   In which ways can constructive and collaborative first steps grow out of the above processes? 
 
   
-**Exact formulation of the topic**
+**Formulation of the topic**
 
   
 
