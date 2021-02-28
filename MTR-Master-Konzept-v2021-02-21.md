@@ -138,7 +138,7 @@ Master Project Text: This will mainly consist of a digital hypertext (wiki-style
 - Main mentor: ??
 
 
-- Other mentors/helpers:  Ivo Aschwanden, Yael Degany, Kaspar König, Livio Lunin, Katherine MacBride, Eduardo Ivanec, Alessandro Valentino
+- Other mentors/helpers:  Ivo Aschwanden, Yael Degany, Kaspar König, Livio Lunin, Katherine MacBride, Eduardo Ivanec, Alessandro Valentino, Xenia Meier, Sonja Wolfensberger, Ramon Lang, Jane Lorand, Lauren Henderson, Alissa Estivariz Lopez, Ekin Özdemir, Katharina Cromme, Ivano Talamo
 
   
 
