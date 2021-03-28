@@ -6,6 +6,10 @@
 
 # Meetings
 
+- [[2021-06-03]]
+	- https://www.beeperhq.com/
+	- https://ghost.org/
+
 - [[2021-02-14]]
 	- How we relate to [[information]]
 	- Thought connection to [[Christopher Alexander]]: systems that allow open-ended organic evolution 
