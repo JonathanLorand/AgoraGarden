@@ -6,6 +6,12 @@
 
 # Meetings
 
+- [[2021-04-03]]
+	- Hannah Arendt 
+		- Jonathan wants to probably read a bit about her  "theory of action"
+			- https://plato.stanford.edu/entries/arendt/#AreTheAct
+
+
 - [[2021-06-03]]
 	- https://www.beeperhq.com/
 	- https://ghost.org/
