@@ -32,10 +32,21 @@
 		- Anne le-Cunff
 		- Telegram chat
 
+	- Plan files
+		- .plan format, writing what one is planning to do
+
+	- Carmack
+		- famous programmer (doom, quake engines)
+
 	- Primer
 		- movie, made with 10'000, indie sci fi
 	- Junkhead 
 		- https://www.youtube.com/watch?v=ge18Ieyi9bI&t=9s
+	- [[Adam Curtis]]
+		- Can't get you out of my head
+		- https://en.wikipedia.org/wiki/Can%27t_Get_You_Out_of_My_Head_(TV_series)
+	- Harun Farocki
+		- https://en.wikipedia.org/wiki/Harun_Farocki
 
 - [[2021-06-03]]
 	- https://www.beeperhq.com/
