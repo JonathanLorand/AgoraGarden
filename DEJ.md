@@ -7,7 +7,9 @@
 # Meetings
 
 - [[2021-04-03]]
-	- Hannah Arendt 
+	- [[Walter Benjamin]]
+		- The work of art in the age of mechanical reproduction
+	- [[Hannah Arendt]] 
 		- Jonathan wants to probably read a bit about her  "theory of action"
 			- https://plato.stanford.edu/entries/arendt/#AreTheAct
 
