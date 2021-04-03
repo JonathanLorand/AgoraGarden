@@ -12,6 +12,19 @@
 	- [[Hannah Arendt]] 
 		- Jonathan wants to probably read a bit about her  "theory of action"
 			- https://plato.stanford.edu/entries/arendt/#AreTheAct
+	- Copyright, Information laws, authorship, reputations, social capital
+	- https://en.wikipedia.org/wiki/Steganography
+	- memes don't have authorship
+	- why/when is authorship important?
+		- recognition
+	- D thinks it would be interesting to apply the pattern language paradigm to understanding the nature of information and our interactions with it
+	- Luciana mentioning that information discussion reminded her of Derrida
+		- maybe intellectual three to Bateson ? 
+		- key term for Derrida 'difference'
+	- E interested in definitions of information, information theory, etc
+		- relation of information and power
+		- seeing as a state 
+			- seeing people as information about them
 
 
 - [[2021-06-03]]
