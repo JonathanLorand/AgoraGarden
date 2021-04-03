@@ -32,6 +32,12 @@
 		- Anne le-Cunff
 		- Telegram chat
 
+	- Moa
+		- integrating different streams/platforms of information
+
+	- Indie-web, RSS
+	- Indiekit
+
 	- Plan files
 		- .plan format, writing what one is planning to do
 
@@ -47,6 +53,14 @@
 		- https://en.wikipedia.org/wiki/Can%27t_Get_You_Out_of_My_Head_(TV_series)
 	- Harun Farocki
 		- https://en.wikipedia.org/wiki/Harun_Farocki
+
+	- J's MA project? 
+		- Structuralist vs. 'content/empotional/energetics' vs. UX aspects - maybe they form a trichotemy? 
+	
+	- Omega rule
+		- extension of principle of charity ? 
+			
+
 
 - [[2021-06-03]]
 	- https://www.beeperhq.com/
