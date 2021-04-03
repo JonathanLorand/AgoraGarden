@@ -25,7 +25,17 @@
 		- relation of information and power
 		- seeing as a state 
 			- seeing people as information about them
+	- Now pages
+		- https://sive.rs/nowff
+	- Idea of having one's own API
+	- Digital gardeners
+		- Anne le-Cunff
+		- Telegram chat
 
+	- Primer
+		- movie, made with 10'000, indie sci fi
+	- Junkhead 
+		- https://www.youtube.com/watch?v=ge18Ieyi9bI&t=9s
 
 - [[2021-06-03]]
 	- https://www.beeperhq.com/
