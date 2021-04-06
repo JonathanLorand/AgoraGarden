@@ -59,6 +59,9 @@
 	
 	- Omega rule
 		- extension of principle of charity ? 
+		- make effort to interpret what someone else is saying as if it makes complete sense
+	- Question about
+		- https://twitter.com/flancian/status/1320054847987646469
 			
 
 
