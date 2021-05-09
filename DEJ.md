@@ -6,6 +6,24 @@
 
 # Meetings
 
+- [[2021-04-24]]
+	- Topic one: moving/experimenting towards a shared digital garden? 
+		- D: there are two things to distinguish 
+			- shared garden for sharing notes 
+			- discussion/threading/chat space
+
+		- J: let's focus on the shared notes thing first
+	 
+	## Links
+	- twitter but more user controlled ? 
+		- https://joinmastodon.org/
+		- https://ctznry.com/
+	- the original wiki: https://wiki.c2.com/
+	- an neat threaded hypertext project: https://www.kickscondor.com/HT2020/
+
+	- https://anagora.org/wiki-modes
+	-
+	
 - [[2021-04-03]]
 	- [[Walter Benjamin]]
 		- The work of art in the age of mechanical reproduction
