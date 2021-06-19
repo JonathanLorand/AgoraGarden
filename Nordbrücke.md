@@ -1,7 +1,7 @@
 ## Nordbrücke
 
 - talked about 
-  - [[a pattern language]]  
+  - [[A Pattern Language]]  
   - [[category theory]]  
   - [[utopoi]]
   - [[mfo park]]

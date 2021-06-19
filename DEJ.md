@@ -6,6 +6,32 @@
 
 # Meetings
 
+- [[2021-05-22]]
+	- still want to write NoTSoF
+		- make for a pattern language FIRST
+	- intention to merge our notes once we've made them
+	- for reading group on wednesday wanted to choose patterns
+		- use repository
+	- TO Dos
+		- summary of introduction of Pattern Language
+		- start brainstorming list for glossary of terms fo NoTSoF (or more general [[Christopher Alexander]]), write these into the [[Agora]]
+
+	- them telling me some things from their last conversation
+		- regarding information and context
+			- how to understand what others understand, as regards context
+			- how to see if we are on the same page
+			- sometimes one spends a lot of time of doing things, but one doesn't realize one is not using the same concepts/ideas for a given term
+			- how to determine a minimum set of concepts/tools to check understanding -> a "conceptual context"
+			- what can a "minimum denominator" be in understanding that can be a common ground / context
+			- how to deal with context question
+				- including passing a text, passing materials to share one's own context
+				- procedures to assemble a context
+				- procedures to check if we have the same context
+					- e.g. in the agora, pooling materials around a node
+
+	- building bridges between conventions rather than 
+	- the exercise we are doing is about assembling different points of view on a single given topic
+	
 - [[2021-04-24]]
 	- Topic one: moving/experimenting towards a shared digital garden? 
 		- D: there are two things to distinguish 
