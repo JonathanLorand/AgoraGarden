@@ -19,6 +19,8 @@ A list of things:
 - some journaling/free-writing in the evening to clear out thoughts
 - no screens (computer, phone) at least ca. 2 hours before going to bed
 - trying to fall asleep while listening to "rain sounds" in a loop on my headphones. This seems to be calming for me, and also seems to help block out external noises as well as internal mental chatter in my head
+- listening to this 30min guided sleep meditation once in bed and ready for sleep (the guy's voice is somehow really relaxing!)
+	- https://www.youtube.com/watch?v=y8LIbeKQ60U
 - sleep medication: I sometimes use "Benocten" to help with falling asleep. I have the impression my sleep quality is less than normal if I use it, but sometimes this is preferable to no sleep. The next day I'm sometimes a bit groggy from it I think. With other sleep medication that I've tried I feel more groggy though and they also often didn't work to make me sleep for sure. So I've opted to not use sleep medication, except Benocten once in a while. 
 
 
