@@ -75,7 +75,7 @@ For lack of time to formulate things well in my own words, here is copy-pasted t
 ***
 
 *We have seen in the last chapter that there is a process by which a person can formulate a pattern; and make it explicit, so that other people can use it. Many such patterns have been writien down, in volume 2. 
-But so far, there is no guarantee at all that any one of these patterns will actually work. Each one is intended to be a source of life, a generative, self-sustaining pattern. But is it actually? How can we distinguish patterns which work, which are deep and worth copying, from those which are simply pipe dreams, mad imaginings ... *
+But so far, there is no guarantee at all that any one of these patterns will actually work. Each one is intended to be a source of life, a generative, self-sustaining pattern. But is it actually? How can we distinguish patterns which work, which are deep and worth copying, from those which are simply pipe dreams, mad imaginings...*
 
 
 *One test says that a pattern is alive if its individual statements are empirically true.* 
