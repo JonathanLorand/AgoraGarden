@@ -91,30 +91,30 @@ So we say that a pattern is good, whenever we can show that it meets the followi
 
 *But a pattern is not alive just because its component statements are true, one by one.*
 
-*The fact is that even though its individual component statements are true, the pattern has no empirical reality as a whole. *
+*The fact is that even though its individual component statements are true, the pattern has no empirical reality as a whole.*
 
 *Even the fact that a pattern seems sensible, and has clear reasoning behind it, does not mean at all that the pattern is necessarily capable of generating life.* 
 
 *A pattern only works, fully, when it deals with all the forces that are actually present in the situation.*
 
 
-*The difficulty is that we have no reliable way of knowing just exactly what the forces in a situation are. *
+*The difficulty is that we have no reliable way of knowing just exactly what the forces in a situation are.*
 
 *What we need is away of understanding the forces which cuts through this intellectual difficulty and goes closer to the empirical core.* 
 
-*To do this, we must rely on feelings more than intellect. *
+*To do this, we must rely on feelings more than intellect.*
 
 *The pattern ALCOVE feels good to us, because we feel the wholeness of the system there.* 
 
-*The pattern T-JUNCTIONS makes us feel good, because we feel the wholeness of the system there. *
+*The pattern T-JUNCTIONS makes us feel good, because we feel the wholeness of the system there.*
 
 *And MOSAIC OF SUBCULTURES makes us feel good, because, again, we feel the whaleness of the system there.* 
  
 *By contrast, patterns made from thought, without feeling, lack empirical reality entirely.* 
 
-*We see then, that there is a fundamental inner conne tion between the balance of a system of forces, and our feelings about the pattern which resolves these forces. *
+*We see then, that there is a fundamental inner conne tion between the balance of a system of forces, and our feelings about the pattern which resolves these forces.*
 
-*This makes it easter to test any given pattern. *
+*This makes it easter to test any given pattern.*
 
 *We can always ask ourselves just how a patiern makes us feel.And we can always ask the same of someone else.* 
 
@@ -124,11 +124,11 @@ So we say that a pattern is good, whenever we can show that it meets the followi
 
 *And it is also not the same as asking what a person thinks of an idea.* 
 
-*It semply asks for feelings, and for nothing else. *
+*It semply asks for feelings, and for nothing else.*
 
 *The success of this test hinges on a fact which I have not said enough about so far — the extraordinary degree of agreement in people’s feelings about patterns.*
 
-*There are few experiments, im science, where a phenomenon is capable of generating this extraordinary level of agreement. *
+*There are few experiments, im science, where a phenomenon is capable of generating this extraordinary level of agreement.*
 
 *But for fear of repeating myself, I must say once again that the agreement lies only in peoples’ actual feelings, not in their opinions.* 
 
@@ -142,7 +142,7 @@ So we say that a pattern is good, whenever we can show that it meets the followi
 
 *In short, what is at stake at last, is nothing but the guality without a name itself.*
 
-*It is, in the end, the presence of this quality in a pattern which makes the difference between one which lives and one which doesn't ... *
+*It is, in the end, the presence of this quality in a pattern which makes the difference between one which lives and one which doesn't ...*
 
 *It is reality itself which makes the difference.* 
 
@@ -156,7 +156,7 @@ So we say that a pattern is good, whenever we can show that it meets the followi
 
 *Then it becomes a piece of nature. 
 When we see the patiern of the ripples in a pond, we know that this patiern is simply in equilibrium with the forces which exist: without any menial in- ter ference which is clouding them.
-And, when we succeed, finally, in seeing so deep imto a man-made pattern, that it is no longer clouded by opinions or by images, then we have discovered a piece of nature as valid, as eternal, as the ripples im the surface of a pond.*>)
+And, when we succeed, finally, in seeing so deep imto a man-made pattern, that it is no longer clouded by opinions or by images, then we have discovered a piece of nature as valid, as eternal, as the ripples im the surface of a pond.*
 
 
 
