@@ -3,11 +3,11 @@ What are some of the takeaways from the reading group experience and from intera
 
 
 Here is a quick sort of description of the works that we read. They 
-- concieve of form-making processes in a conceptual and systems-theoretic light, analalyzing the role of causal interdependences of "misfit variables" and design choices, and how these interact with the context as it changes
+- concieve of form-making processes in a conceptual and systems-theoretic light, analyzing the role of causal interdependences of "misfit variables" and design choices, and how these interact with the context as it changes
 - attempt to understand why many traditional form-making processes seem to make "good forms" in a consistent manner which is adaptive over time ("homeostatic")
 - posits an answer to the previous question and proposes a systematic method of design which aims to be homeostatic while at the same time being "selfconscious"
 - aim to answer the question of what it means for a space to be "beautiful and alive" and what it means to have a "high quality of life" in terms of architecture
-- propose a methodological framework for creating spaces which are alive, beautiful, and offer a high quality of life. This framework has aspects which are
+- propose a methodological framework for creating spaces which are alive, beautiful, and offer a high quality of life. This framework has aspects which are (ideally)
 	- structured sytemically in a fractal-like language of patterns which are ordered roughly by scale and by dependencies with respect to form and function
 	- has a sequential and compositional mode of design and deployment
 	- guided by principles (such as: ...)
@@ -15,13 +15,13 @@ Here is a quick sort of description of the works that we read. They
 	- specific to the site, users, and culture
 	- extendable and adaptable over time
 
-Below, I've started trying to write a sort of report on some of the idea and arguments that stood out for me. So far, this is quite incomplete still!
+Below, I've started trying to write a sort of report on some of the ideas and arguments that stood out for me. So far, this is quite incomplete still!
 
 ## Good Fit
 
 In [[Notes on the synthesis of form]], Alexander introduces the notion of "good fit" as a property that might be achieved, or not, by an ensemble consisting of two abstract parts: a form and a context. The form is the part which the designer(s) choose to actively conceive, shape, and realize, and the context is essentially everything else that is relevant to the design task/problem/question at hand. In other words, with respect to a given design question, the abstract distinction between form and context is a distinction between those things that designers will exert agency upon and change, and those things that will be assumed to stay fixed for the duration of the design process. A key point for making this form/context distinction is that the form-making process and the changing of the context (which realistically is usually also happening) are assumed to proceed at different enough speeds so that, in approximation, we can think of the context as temporarily fixed. Another, but seperate, aspect of the form/context distinction is the question of which variables are under the designers control at all, and which not. 
 
-A comment that Alexander makes and which I enjoyed is that, for a single given design question, there are often a large multitude of different ways to split the question into a part that is "the form" and a part that is "the context". 
+A comment that Alexander makes, and which I enjoyed, is that, for a single given design question, there are often a large multitude of different ways to split the question into a part that is "the form" and a part that is "the context". 
 
 ## Homeostatic design processes
 
@@ -40,29 +40,29 @@ Alexander then goes on to make a conceptual and mathematical toy model for think
 
 ## A toy model
 
-The set-up and interpretation is as follows. We consider a system of 100 lightbulbs (let's imagine a 10x10 grid), and each one can be either in a state of being "on" or a state of being "off" at any given moment. To simplify our thinking about time, we work with discrete time steps, e.g. let us use steps that are 1 second long, and we assume that the state of any light bulb stays constant in any one time step, but may change from one time step to the next. Whether a lightbulb changes its state will depend on a number of rules, which we formulate now. For this, we imagine that some lightbulbs are directly connected to each other and some are not (we can think of some sort of wires as representing connections, or we can just think in terms of abstract labels which denote which bulbs are connected). The rules are:
+The set-up and interpretation is as follows. We consider a system of 100 lights (e.g. imagine a 10x10 grid), and each one can be either in a state of being "on" or a state of being "off" at any given moment. To simplify our thinking about time, we work with discrete time steps, e.g. let us use steps that are 1 second long, and we assume that the state of any light  stays constant in any one time step, but may change from one time step to the next. Whether a light changes its state will depend on two rules, which we formulate now. For this, we imagine that some lights are directly connected to each other and some are not (we can think of some sort of wires as representing connections, or we can just think in terms of abstract labels which denote which bulbs are connected). The rules are:
 1. If a bulb is on, it has a 50% chance that it will turn off in the next time step.
 2. If a bulb is off, it has a 50% chance of turning on in the next time step *if* it is directly connected to a bulb which is currently on; otherwise it stays off in the next time step. 
 
-The interpretation of this model is that lightbulbs represent misfit variables for a form that should solve a design problem, with the "off state" corresponding to "fit" and the "on state" corresponding to "misfit". So, ideally, the designers wish to bring the system to a state where all the lights are off (all variables are in the "fit" state). The connections between lightbulbs represent (mutual) interdependencies between the misfit variables. 
+The interpretation of this model is that lights represent misfit variables for a form that should solve a design problem, with the "off state" corresponding to "fit", and the "on state" corresponding to "misfit". So, ideally, the designers wish to bring the system to a state where all the lights are off (all variables are in the "fit" state). The connections between lights represent (mutual) interdependencies between the misfit variables. 
 
 The rationale for rule (1.): it represents the fact that misfits will be attempted to be corrected over time. So, in the model, misfit variables are assumed to have a 50% chance of being corrected in each time step. 
 
 The rationale for rule (2.): it represents the fact that, if a misfit variable is in a "fit" state, but a variable that it is interdependent with is in a "misfit" state, then there is a chance that this (or rather the changing around done by the designers) will "disturb" the one that was in a "fit" state. 
 
-Alexander next goes on to do a rough analysis of the behavior of such a system over time. He claims that such a system will eventually arrive in a state where all the the lights are in the "off" state, as desired, and he observes that the time it takes, on average, to reach this state of "all off" will depend only on the pattern of interconnection that the system exhibits. (I wonder if there is a mathematical proof written somewhere that the system will eventually reach an "all off" state; I'm guessing that Alexander did consider this as a rigorous mathematical statement and I wonder how it was formalized precisely). He then analyzes the following three simple special cases. 
+Alexander next goes on to do a rough analysis of the behavior of such a system over time. He claims that such a system will eventually arrive in a state where all the the lights are in the "off" state, as desired, and he observes that the time it takes, on average, to reach this state of "all off" will depend only on the pattern of interconnections that the system exhibits. (I wonder if there is a mathematical proof written somewhere that the system will eventually reach an "all off" state; I'm guessing that Alexander did consider this as a rigorous mathematical statement and I wonder how it was formalized precisely). He then analyzes the following three simple special cases. 
 
 Case 1: We assume here that there are *no* connections between any of the lights. In this case, once a light goes off, there is nothing that would cause it to go on again. And, each light will eventually turn off. The average time for the whole system to go off is the same (or of a similar order?) as the average time for a single light to go off; that average time is $\sum_{k=0}^\infty \frac{1}{2}^k = 2$ seconds. 
 
 Case 2: We assume now that all the lights are directly connected to all the other ones. Approximately speaking, the only way that all the lights will ever go off is if they all go off at once. This will happen eventually, but the average time until this happens is of the order of $2^{100}$ seconds (since we are considering rule 1, for which the 100 lights behave independently). This amount of time is roughly $10^22$ years, which is longer than the estimated age of the universe. 
 
-Case 3: We assume that the 100 lights are grouped into 10 subsystems, each consisting of 10 lights each, and such that within each subsystem all lights are connected to each other, and such that lights in differing subsystems are never connected to each other. In this sense, the subsystems are inpendent of one another. Now the average time for the whole syste to reach an "all off" state will be the same as the average time for a subsystem to reach an "all off" state, and that time is $2^10$ seconds, or roughly 15 minutes. 
+Case 3: We assume that the 100 lights are grouped into 10 subsystems, each consisting of 10 lights each, and such that within each subsystem all lights are connected to each other, and such that lights in differing subsystems are never connected to each other. In this sense, the subsystems are independent of one another. Now the average time for the whole syste to reach an "all off" state will be the same as the average time for a subsystem to reach an "all off" state, and that time is $2^10$ seconds, or roughly 15 minutes. 
 
 The striking fact is that the average time in Case 3 is much much closer to the average time in Case 1, while average time in Case 2 is impossibly long. The conclusion that Alexander draws from this:
 
 "No complex adaptive system will succeed in adapting in a reasonable amount of time unless the adaptation can proceed subsystem by subsystem, each subsystem relatively independent of the others." (p41)
 
-Given a form-making process, or any system represented by the toy model above, it is often the case that we cannot see "inside" it in the sense of being able to know explicitly the (conceptual and causal) interdependencies between the relevant mistfit variable. However, Alexander observes, we can infer knowledge of the interdependency structure of the system by seeing how the system reacts to change. In terms of the toy model, if we imagine that an external agent would occasionally flip on a single light, we can observe how the system reacts to this disturbance. From this, Alexander argues, we can infer qualitative features of system: whether there are many interdependencies or not, and whether these structure the system into a number of relatively independent subsystems. (I wonder here again, to what degree this statement hase been rigorosouly analyzed). 
+Given a form-making process, or any system represented by the toy model above, it is often the case that we cannot see "inside" it in the sense of being able to know explicitly the (conceptual and causal) interdependencies between the relevant mistfit variables. However, Alexander observes, we can infer knowledge of the interdependency structure of the system by seeing how the system reacts to change. In terms of the toy model, if we imagine that an external agent would occasionally flip on a single light, we can observe how the system reacts to this disturbance. From this, Alexander argues, we can infer qualitative features of system: whether there are many interdependencies or not, and whether these structure the system into a number of relatively independent subsystems. (I wonder here again, to what degree this statement hase been rigorosouly analyzed). 
 
 [include more from page 45 here]
 
