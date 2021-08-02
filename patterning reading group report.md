@@ -124,7 +124,7 @@ So we say that a pattern is good, whenever we can show that it meets the followi
 
 *And it is also not the same as asking what a person thinks of an idea.* 
 
-*It semply asks for feelings, and for nothing else.*
+*It simply asks for feelings, and for nothing else.*
 
 *The success of this test hinges on a fact which I have not said enough about so far — the extraordinary degree of agreement in people’s feelings about patterns.*
 

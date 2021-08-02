@@ -34,13 +34,13 @@
 	- "In short, no pattern is an isolated entity. Each pattern can exist in the world, only to the extent that is supported by other patterns: the larger patterns in which it is embedded, the patterns of the same size that surround it, and the smaller patterns which are embedded in it."
 	- "This is a fundamental view of the world. It says that when you build a thing you cannot merely build that thing in isolation, but must also repair the world around it, and within it, so that the larger world at that one place becomes more coherent, and more whole; and the thing which you make takes its place in the web of na-ture, as you make it."
 - The relation between problems and solutions with individual patterns
-	- "Each solution is stated in such a way that it gives the essential field of relationships needed to solve the prob-lem, but in a very general and abstract way - so that you can solve the problem for yourself, in your own way, by adapting it to your preferences, and the local conditions at the place where you are making it."
+	- "Each solution is stated in such a way that it gives the essential field of relationships needed to solve the problem, but in a very general and abstract way - so that you can solve the problem for yourself, in your own way, by adapting it to your preferences, and the local conditions at the place where you are making it."
 	- "For this reason, we have tried to write each solution in a way which imposes nothing on you. It contains only those essentials which cannot be avoided if you really want to solve the problem. In this sense, we have tried, in each solution, to capture the invariant property common to all places which succeed in solving the problem."
 		- Why assume that there are any invariants at all?
 		- Are there problems with multiple and mutually incomensurable solutions?
 
 -  Why they wrote the book(s)
-	- "The fact is, that we have written this book as a first step in the society-wide process by which people will gradually become conscious of their own pattern lan-guages, and work to improve them."
+	- "The fact is, that we have written this book as a first step in the society-wide process by which people will gradually become conscious of their own pattern languages, and work to improve them."
 
 ### Summary of the language
 
@@ -79,7 +79,7 @@
 ### The poetry of the language
 - "Finally, a note of caution. This language, like English, can be a medium for prose, or a medium for poetry. The difference between prose and poetry is not that different languages are used, but that the same language is used, differently.In an ordinary English sentence, each word has one meaning, and the sentence too, has one simple meaning. In a poem, the meaning is far more dense. Each word carries several meanings; and the sentence as a whole carries an enormous density of interlocking meanings, which together illuminate the whole."
 - "The same is true for pattern languages. It is possible to make buildings by stringing together patterns, in a rather loose way. A building made like this, is an assembly of patterns. It is not dense. It is not profound. But it is also possible to put patterns together in such a way that many many patterns overlap in the same physical space: the building is very dense; it has many meanings captured in a small space; and through this density, it becomes profound."
-- "But this kind of compression is not only poetic and profound. It is not only the stuff of poems and exotic statements, but to some degree, the stuff of every English sentence. To some degree, there is compression in every single word we utter, just because each word carries the whisper of the meanings of the words it is connected to. Even "Please pass the butter, Fred" has some compres-sion in it, because it carries overtones that lie in the con-nections of these words to all the words which came be-fore it. 
+- "But this kind of compression is not only poetic and profound. It is not only the stuff of poems and exotic statements, but to some degree, the stuff of every English sentence. To some degree, there is compression in every single word we utter, just because each word carries the whisper of the meanings of the words it is connected to. Even "Please pass the butter, Fred" has some compression in it, because it carries overtones that lie in the con-nections of these words to all the words which came be-fore it. 
 - Each of us, talking to our friends, or to our families, makes use of these compressions, which are drawn out from the connections between words which are given by the language. The more we can feel all the connections in the language, the more rich and subtle are the things we say at the most ordinary times."
 
 ## Towns
@@ -92,7 +92,7 @@
 ## Buildings 
 
 ### Using the language
-- "We assume that, based on the instructions m "Sum-mary of the Language," you have already constructed a sequence of patterns. We shall now go through a step-by-step procedure for building this sequence into a design."
+- "We assume that, based on the instructions m "Summary of the Language," you have already constructed a sequence of patterns. We shall now go through a step-by-step procedure for building this sequence into a design."
 	- 1. The basic instruction is this: Take the patterns in the order of the sequence, one by one, and let the form grow from the fusion of these patterns, the site, and your own instincts.
 	- 2. It is essential to work on the site, where the project is to be built; inside the room that is to be remodeled; on the land where the building is to go up; and so forth. And as far as possible, work with the people that are actually going to use the place when it is finished: if you are the user, all the better. But, above all, work on the site, stay on the site, let the site tell you its secrets.
 	- 3. Remember too, that the fo,;m will grow gradually as you go through the sequence, beginning as something very loose and amorphous, gradually becoming more and more complicated, more refined and more differ-entiated, more finished. Don't rush this process. Don't give the form more order than it needs to meet the pat-terns and the conditions of the site, each step of the way. In effect, as you build each pattern into the design, you will experience a single gestalt that is gradually becom-ing more and more coherent.
@@ -119,7 +119,7 @@
 - "Perhaps the main thing to bear in mind, as you look over this material, is this: Our intention in this section has been to provide an alternative to the technocratic and rigid ways of building that have become the legacy of the machine age and modern architecture."
 - "The way of building described here leads to buildings that are unique and tailored to their sites. It depends on builders taking responsibility for their work; and work-ing out the details of the building as they go-mocking up entrances and windows and the dimensions of spaces, making experiments, and building directly according to the results."
 
-- "the patterns themselves in this sec-tion are both more concrete, and more abstract, than any other patterns in the language."
+- "the patterns themselves in this section are both more concrete, and more abstract, than any other patterns in the language."
 - "They are more concrete because, with each pattern, we have always given at least one interpretation which can be built directly. For instance, with the pattern ROOT FOUNDATION, we have given one particular interpreta-tion, to show that it can be done, and also to give the reader an immediate, and practical, buildable approach to construction."
 - "Yet at the same time, they are also more abstract. The particular concrete formulation which we have given for each pattern, can also be interpreted, and remade in a thousand ways. Thus, it is also possible to take the gen-eral idea of the pattern, the idea that the foundation functions like a tree root, in the way that it anchors the building in the ground-and invent a dozen entirely dif-ferent physical systems, which all work in this funda-mental way. In this sense, these patterns are more ab-stract than any others in the book, since they have a wider range of possible interpretations."
 
